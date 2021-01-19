@@ -9,58 +9,56 @@
     <TextView
         android:layout_width="134dp"
         android:layout_height="51dp"
-        android:background="@color/colorAccent"
+        android:background="@color/colorPrimary"
         android:gravity="center"
         android:text="anak1"
         android:textSize="30dp"
         android:textStyle="bold"
-
-    <TextView
-        android:layout_width="134dp"
-        android:layout_height="51dp"
-        android:background="@color/colorAccent"
-        android:gravity="center"
-        android:text="anak1"
-        android:textSize="30dp"
-        android:textStyle="bold"
-    <TextView
-        android:layout_width="134dp"
-        android:layout_height="51dp"
-        android:background="@color/colorAccent"
-        android:gravity="center"
-        android:text="anak1"
-        android:textSize="30dp"
-        android:textStyle="bold"
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="horizontal"></LinearLayout>
 
     <TextView
         android:layout_width="134dp"
         android:layout_height="51dp"
         android:background="@color/colorPrimary"
         android:gravity="center"
-        android:text="anak1"
+        android:text="anak2"
+        android:textSize="30dp"
+        android:textStyle="bold"
+
+    <TextView
+        android:layout_width="134dp"
+        android:layout_height="51dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="anak3"
+        android:textSize="30dp"
+        android:textStyle="bold"
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="134dp"
+        android:layout_height="51dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="anak4"
         android:textsize="30dp"
-        android:textstyle="bold">
+        android:textstyle="bold"
+
 
         <TextView
             android:layout_width="134dp"
             android:layout_height="51dp"
-            android:background="@color/colorPrimary"
+            android:background="@color/colorAccent"
             android:gravity="center"
-            android:text="anak1"
+            android:text="anak5"
             android:textsize="30dp"
-            android:textstyle="bold">
+            android:textstyle="bold"
 
-            <TextView
-                android:layout_width="134dp"
-                android:layout_height="51dp"
-                android:background="@color/colorPrimary"
-                android:gravity="center"
-                android:text="anak1"
-                android:textsize="30dp"
-                android:textstyle="bold">
-            </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
