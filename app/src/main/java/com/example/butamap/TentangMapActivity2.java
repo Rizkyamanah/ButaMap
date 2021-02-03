@@ -34,8 +34,8 @@ public class TentangMapActivity2 extends AppCompatActivity {
 
 
                 //buat object dari class intent
-                Intent linkToMap = new Intent(y.this,TentangMapActivity2.class);
-                //mengatifkan link nya
+                Intent linkToMap = new Intent(TentangMapActivity2.this,MainActivity.class);
+                //mengaktifkan link nya
                 startActivity(linkToMap);
 
             }
